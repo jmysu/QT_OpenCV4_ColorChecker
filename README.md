@@ -3,7 +3,7 @@
 ### ColorChecker stuff w/ OpenCV4, QT5...<br>
 
 Python project: forked from https://github.com/mathandy/python-macduff <br>
-QT project: adapted from OpenCV doc website. <br>
+QT projects: adapted from OpenCV doc website. <br>
 
 <br>
 
@@ -24,7 +24,7 @@ QT project: adapted from OpenCV doc website. <br>
 <br>
 
 
-### Colors Calibration w/ 24colors colorchecker<br>
+### Calibration w/ 24colors colorchecker<br>
 <img src="pic/OpenCV_ColorCal.png" width=800> <br>
 <br>
 <br>
