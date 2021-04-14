@@ -14,7 +14,7 @@ QT project: adapted from OpenCV doc website. <br>
 <br>
 
 ### OpenCV4 ColorChecker Python finder... <br>
-<img src="Source/python-macduff/debug_passport_box.jpg" width=240> <img src="Source/python-macduff/debug_quads2.png" width=240> <img src="Source/python-macduff/output.jpg" width=400> 
+<img src="Source/python-macduff/debug_passport_box.jpg" width=240> <img src="Source/python-macduff/debug_quads2.png" width=240> <img src="Source/python-macduff/oo24.jpg" width=400> 
 
 <br>
 <br>
