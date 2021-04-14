@@ -3,14 +3,13 @@
 ### ColorChecker stuff w/ OpenCV4, QT5...<br>
 
 Python project: forked from https://github.com/mathandy/python-macduff <br>
-QT projects: adapted from OpenCV doc website. <br>
+QT projects: adapted from OpenCV doc website.(https://github.com/jmysu/QT_OpenCV4_ColorChecker/tree/main/Source)<br>
 
 <br>
 
 
 
 ### Simple QT5/OpenCV4 ColorChecker finder... <br>
-source codes at here:(https://github.com/jmysu/QT_OpenCV4_ColorChecker/tree/main/Source)
 <img src="pic/OpenCV_ColorCheck0.png" width=400> <img src="pic/OpenCV_ColorCheck1.png" width=400>
 <br>
 <br>
