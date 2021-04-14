@@ -7,7 +7,7 @@ QT project: adapted from OpenCV doc website.
 
 
 
-### MacOS 24Colors ColorChecker && CC finder... <br>
+### QT5/OpenCV4 24Colors ColorChecker && CC finder... <br>
 <img src="pic/OpenCV_ColorCheck0.png" width=400> <img src="pic/OpenCV_ColorCheck1.png" width=400>
 <br>
 
