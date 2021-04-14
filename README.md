@@ -12,7 +12,7 @@ With following modifications: <br>
 <br>
 
 ### MacOS play video && BGS(framediff)... <br>
-<img src="pic/OpenCV_ColorCheck0.jpg" width=320> <img src="pic/OpenCV_ColorCheck1.jpg" width=300>
+<img src="pic/OpenCV_ColorCheck0.png" width=320> <img src="pic/OpenCV_ColorCheck1.png" width=300>
 <br>
 
 ### Windows play video (Canny/BGS)... &emsp;&emsp;&emsp; Pi4 play video (BGS)... <br>
