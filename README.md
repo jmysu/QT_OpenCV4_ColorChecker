@@ -31,7 +31,7 @@ QT projects: adapted from OpenCV doc website, with OpenCV4 API. (https://github.
 <br>
 
 ### Simple QT5/OpenCV4 Checkboard finder
-<img src="pic/FoundCB_8x6.png" width=300> <img src="pic/FoundCB_9x6.png" width=400> <br>
+<img src="pic/FoundCB_9x6.png" width=300> <img src="pic/FoundCB_8x6.png" width=400> <br>
 <br>
 <br>
 
