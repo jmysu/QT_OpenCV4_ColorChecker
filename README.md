@@ -25,7 +25,7 @@ QT project: adapted from OpenCV doc website. <br>
 
 
 ### Colors Calibration w/ 24colors colorchecker<br>
-<img src="pic/OpenCV_ColorCal.png" <br>
+<img src="pic/OpenCV_ColorCal.png" width=800> <br>
 <br>
 <br>
 <br>
