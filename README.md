@@ -3,20 +3,11 @@
 ColorChecker stuff w/ OpenCV4, QT5
 
 
-Forked project from [MultiThreaded OpenCV Capture](https://code.google.com/archive/p/qt-opencv-multithreaded/wikis/Documentation.wiki) <br>
 
-With following modifications: <br>
-  - Add Video Files Playback. <br>
-  - Fixed Windows/Linux/MacOS build. <br>
-  - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
-<br>
-
-### MacOS play video && BGS(framediff)... <br>
+### MacOS 24Colors ColorChecker && CC finder... <br>
 <img src="pic/OpenCV_ColorCheck0.png" width=320> <img src="pic/OpenCV_ColorCheck1.png" width=300>
 <br>
 
-### Windows play video (Canny/BGS)... &emsp;&emsp;&emsp; Pi4 play video (BGS)... <br>
-<img src="pic/QT_OpenCV4_Capture_Windows.gif" width=320> <img src="pic/QT_OpenCV4_CapturePi4.gif" width=320>
 
 
 <br>
@@ -25,5 +16,5 @@ With following modifications: <br>
 
 ## References <br>
   -[MultiThreaded OpenCV Capture](https://code.google.com/archive/p/qt-opencv-multithreaded/wikis/Documentation.wiki) OpenCV MultiThreaded Capture<br>
-  -[BGS Library](https://github.com/andrewssobral/bgslibrary) A Background Subtraction Library<br>
+
   
