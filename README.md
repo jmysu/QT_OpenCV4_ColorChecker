@@ -11,6 +11,8 @@ QT project: adapted from OpenCV doc website.
 <img src="pic/OpenCV_ColorCheck0.png" width=400> <img src="pic/OpenCV_ColorCheck1.png" width=400>
 <br>
 
+### QT5/OpenCV4 24Colors ColorChecker Python finder... <br>
+<img src="Source/python-macduff/output.jpg" width=300> 
 
 
 <br>
