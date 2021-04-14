@@ -1,6 +1,9 @@
 # QT_OpenCV4_ColorChecker [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Platform: Windows, Linux, OS X](https://img.shields.io/badge/Platform-Win10_64%2C%20Linux%2C%20OS%20X-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue.svg) <br>
  
-ColorChecker stuff w/ OpenCV4, QT5
+ColorChecker stuff w/ OpenCV4, QT5...
+Python project: forked from https://github.com/mathandy/python-macduff
+QT project: adapted from OpenCV doc website.
+
 
 
 
@@ -15,6 +18,5 @@ ColorChecker stuff w/ OpenCV4, QT5
 <br>
 
 ## References <br>
-  -[MultiThreaded OpenCV Capture](https://code.google.com/archive/p/qt-opencv-multithreaded/wikis/Documentation.wiki) OpenCV MultiThreaded Capture<br>
-
-  
+  -[OpenCV4 ColorChecker Finder w/ Python](https://github.com/mathandy/python-macduff)
+  -[OpenCV ColorChecker Detect](https://docs.opencv.org/master/d0/d81/tutorial_table_of_content_mcc.html)   
