@@ -18,5 +18,5 @@ QT project: adapted from OpenCV doc website.
 <br>
 
 ## References <br>
-  -[OpenCV4 ColorChecker Finder w/ Python](https://github.com/mathandy/python-macduff)
-  -[OpenCV ColorChecker Detect](https://docs.opencv.org/master/d0/d81/tutorial_table_of_content_mcc.html)   
+   -[OpenCV4 ColorChecker Finder w/ Python](https://github.com/mathandy/python-macduff) Python finder... <br>
+   -[OpenCV ColorChecker Detect](https://docs.opencv.org/master/d0/d81/tutorial_table_of_content_mcc.html) QT5 CC finder...<br>   
