@@ -21,7 +21,11 @@ QT project: adapted from OpenCV doc website. <br>
 
 ### Colors check: detected vs data!<br>
 <img src="pic/24ColorsCheck.png" width=400> <br>
+<br>
 
+
+### Colors Calibration w/ 24colors colorchecker<br>
+<img src="pic/OpenCV_ColorCal.png" <br>
 <br>
 <br>
 <br>
