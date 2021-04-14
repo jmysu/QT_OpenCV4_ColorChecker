@@ -12,7 +12,7 @@ QT project: adapted from OpenCV doc website.
 <br>
 
 ### QT5/OpenCV4 24Colors ColorChecker Python finder... <br>
-<img src="Source/python-macduff/debug_passport_box.jpg" width=300> <img src="Source/python-macduff/debug_quads2.png" width=300> <img src="Source/python-macduff/output.jpg" width=300> 
+<img src="Source/python-macduff/debug_passport_box.jpg" width=240> <img src="Source/python-macduff/debug_quads2.png" width=240> <img src="Source/python-macduff/output.jpg" width=400> 
 
 <br>
 <br>
