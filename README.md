@@ -9,7 +9,7 @@ QT projects: adapted from OpenCV doc website. <br>
 
 
 
-### QT5/OpenCV4 ColorChecker finder... <br>
+### Simple QT5/OpenCV4 ColorChecker finder... <br>
 <img src="pic/OpenCV_ColorCheck0.png" width=400> <img src="pic/OpenCV_ColorCheck1.png" width=400>
 <br>
 <br>
@@ -24,7 +24,7 @@ QT projects: adapted from OpenCV doc website. <br>
 <br>
 
 
-### Calibration w/ 24colors colorchecker<br>
+### Simple QT5/OpenCV4 Color Calibration w/ colorchecker<br>
 <img src="pic/OpenCV_ColorCal.png" width=800> <br>
 <br>
 <br>
