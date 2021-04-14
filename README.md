@@ -5,7 +5,7 @@ ColorChecker stuff w/ OpenCV4, QT5
 
 
 ### MacOS 24Colors ColorChecker && CC finder... <br>
-<img src="pic/OpenCV_ColorCheck0.png" width=320> <img src="pic/OpenCV_ColorCheck1.png" width=300>
+<img src="pic/OpenCV_ColorCheck0.png" width=400> <img src="pic/OpenCV_ColorCheck1.png" width=400>
 <br>
 
 
