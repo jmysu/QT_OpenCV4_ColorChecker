@@ -25,7 +25,7 @@ QT projects: adapted from OpenCV doc website, with OpenCV4 API. (https://github.
 
 
 ### Simple QT5/OpenCV4 Color Calibration w/ colorchecker<br>
-<img src="pic/OpenCV_ColorCal.png" width=400> <img src="pic/CC_15.png" width=360> <br>
+<img src="pic/OpenCV_ColorCal.png" width=400> <img src="pic/CC_15.png" width=320> <br>
 <br>
 <br>
 
